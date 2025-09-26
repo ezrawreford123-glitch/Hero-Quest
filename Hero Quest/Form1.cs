@@ -30,6 +30,7 @@ namespace Hero_Quest
             outputLabel.Text = "hello ezra. have a glorious adventure.";
             outputLabel.Visible = true;
             //this makes the label visible when the code is ran
+            //hello
         }
     }
 }
